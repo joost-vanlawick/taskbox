@@ -1,4 +1,4 @@
-**this is a tutorial project from https://www.learnstorybook.com/intro-to-storybook/vue/en/test/
+**this is a tutorial project from https://www.learnstorybook.com/intro-to-storybook/vue/en**
 ## storybook-mdx-vue-example
 
 ## Project setup
