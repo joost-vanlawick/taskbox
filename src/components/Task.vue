@@ -50,3 +50,7 @@ export default {
   }
 };
 </script>
+
+<style>
+ .title { background: #ff0000;}
+</style>

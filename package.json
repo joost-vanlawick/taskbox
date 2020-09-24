@@ -6,7 +6,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "storybook": "start-storybook -p 6006 -s public"
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public",
+    "chromatic": "npx chromatic --project-token r29vuyrfyxr"
   },
   "dependencies": {
     "core-js": "^3.6.5",
@@ -25,6 +27,7 @@
     "@vue/eslint-config-prettier": "^5.0.0",
     "babel-eslint": "^10.1.0",
     "babel-preset-vue": "^2.0.2",
+    "chromatic": "^5.2.0",
     "eslint": "^5.16.0",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-vue": "^5.0.0",
