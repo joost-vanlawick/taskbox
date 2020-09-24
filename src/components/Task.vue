@@ -52,5 +52,4 @@ export default {
 </script>
 
 <style>
- .title { background: #0033ff;}
 </style>
