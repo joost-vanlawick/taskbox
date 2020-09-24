@@ -2,6 +2,7 @@
 import PureTaskList from "./PureTaskList";
 import { taskData, actionsData } from "./Task.stories";
 
+
 const paddedList = () => {
   return {
     template: '<div style="padding: 3rem;"><story/></div>'
