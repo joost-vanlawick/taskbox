@@ -52,5 +52,5 @@ export default {
 </script>
 
 <style>
- .title { background: #ff0000;}
+ .title { background: #0033ff;}
 </style>
